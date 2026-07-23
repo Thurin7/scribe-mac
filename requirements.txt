@@ -2,5 +2,3 @@ groq
 python-dotenv
 requests
 moviepy
-
-
